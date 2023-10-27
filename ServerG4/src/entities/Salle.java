@@ -18,7 +18,7 @@ import javax.persistence.OneToMany;
 
 /**
  *
- * @author macbookmimid
+ * @author DELL
  */
 @Entity
 @NamedQuery(name = "findAllSalle", query = "from Salle")

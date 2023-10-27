@@ -18,7 +18,7 @@ import util.HibernateUtil;
 
 /**
  *
- * @author macbookmimid
+ * @author DELL
  */
 public class SalleService extends UnicastRemoteObject implements IDao<Salle>{
 
